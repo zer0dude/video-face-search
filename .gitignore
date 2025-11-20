@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model Weights (Large files)
+*.pt
+assets/vggface2.pt
+
+# OS
+.DS_Store
+Thumbs.db
