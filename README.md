@@ -1,11 +1,11 @@
 # AI Video Face Search 🔍
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://video-face-search.streamlit.app/)
-*Live Demo: [video-face-search.streamlit.app](https://video-face-search.streamlit.app/)*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://video-face-search-wxubbcrf3tufe2xczy6zlb.streamlit.app/)
+*Live Demo: [video-face-search-wxubbcrf3tufe2xczy6zlb.streamlit.app](https://video-face-search-wxubbcrf3tufe2xczy6zlb.streamlit.app/)*
 
 **AI Video Face Search** is a professional computer vision application designed to automate the process of finding specific people in video footage. Originally built to assist media production teams in sifting through hours of raw footage, this tool allows users to "enroll" a person using a few reference photos and instantly generate a timeline of their appearances in a target video.
 
-![Demo Screenshot](assets/demo_screenshot.png) *Note: Add a screenshot here if available*
+![Demo Screenshot](assets/demo_screenshot.png)
 
 ## 🚀 Features
 
@@ -29,8 +29,8 @@ This project leverages state-of-the-art open-source libraries:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/zer0dude/person-identifier.git
-    cd person-identifier
+    git clone https://github.com/zer0dude/video-face-search.git
+    cd video-face-search
     ```
 
 2.  **Create a virtual environment** (Recommended):
